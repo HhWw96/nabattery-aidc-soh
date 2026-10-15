@@ -1,0 +1,13 @@
+# 数据不入库(原始 .mat 约 160 MB, 按 README 指引自行下载)
+data/raw/
+*.mat
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 系统
+.DS_Store
+Thumbs.db

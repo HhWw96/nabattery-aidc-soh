@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+torch>=2.2  # 仅 07_v04_seq_models.py 需要; CPU 版即可
