@@ -1,0 +1,5 @@
+﻿test_group,threshold,test_dist_mean,train_dist_mean,flagged_ratio,n_flagged,n_test
+24C_2A,3.9,1.27,0.0,0.0,0,4
+24C_4A,3.67,1.22,0.0,0.0,0,3
+43C_4A,3.73,4.86,0.0,1.0,4,4
+4C_2A,2.32,6.68,0.0,1.0,4,4
