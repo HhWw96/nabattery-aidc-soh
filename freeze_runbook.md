@@ -1,6 +1,6 @@
 # 冻结前 & 路演日行动手册(10/16 晚 → 10/17)
 
-## A. 推送仓库(10 分钟)
+## A. 推送仓库(✅ 已完成: https://github.com/HhWw96/nabattery-aidc-soh)
 
 ```bash
 cd D:\Project\compition
@@ -10,7 +10,7 @@ cd D:\Project\compition
 git remote add origin <你的仓库地址>
 git branch -M main
 git push -u origin main
-# 3. 把仓库链接发给 Kimi, 我会回填到帖子 04 评论区
+# 3. ✅ 已回填: 帖子 02 正文链接 + 帖子 04 评论区置顶 + 索引帖评论区置顶
 ```
 
 ## B. 催审私信文案(发给 Peter YU, 微信群优先)
